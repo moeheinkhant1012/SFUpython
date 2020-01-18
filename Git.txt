@@ -1,0 +1,39 @@
+user name-moehein1012
+email-moeheinkhant10122@gmail.com
+password-Mhk178121
+
+cd path - go to directory 
+
+first time (new repository)
+			git init
+			git add
+			git config global user.email "moeheinkhant10122@gmail.com
+			git config global user.name "moehein1012"
+
+			git commit -m "first commit"
+			git remote add origin https://github.com/moeheinkhant1012/Sample.git
+			git push -u origin master
+
+(New Repository for New Project)
+			git init
+			git add
+			git config global user.email"moeheinkhant10122@gmail.com"
+			git config global user.name "moehein1012"
+
+			git commit- m"first commit"
+			git remote add origin https://github.com/moehein1012/Sample.git
+			git push -u origin master
+
+(Old Repository For Existing Project)
+			git add.
+			git commit -m "second commit"
+			git push
+
+(Existing Project To Other Laptop)
+			
+			git pull
+			
+(Other Person Project To Own Laptop)
+			
+			git clone https;//github.com/moehein1012/Smaple.git
+
