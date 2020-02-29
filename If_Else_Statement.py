@@ -117,10 +117,21 @@ Answer 1
 Answer 2
 
 
-
-
 #Nested If is if statements in if statements 
 
+x = 50
+
+if x > 10:
+	print("x is ten")
+	if x > 20:
+		print("x is greater than 20")
+	else:
+		print("No,x is not greater than 20")
+
+if x > 10 and x != 10 or x > 20:
+	print("x is greater than 10 and 20")
+else:
+	print("x is not greater than 10 & 20")
 
 
 >>> if x > y :
@@ -143,3 +154,16 @@ x is greater than y
 ...     print("default")
 ...
 default
+
+
+
+loop >>
+
+if student
+	if batch
+		if gender
+else 
+	not
+	student = "SFU"
+		batch = "3"
+			gender = "male"
